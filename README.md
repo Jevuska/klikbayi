@@ -1,7 +1,7 @@
 ## New Repository 24 October 2015
 Marketing Tool for KlikBayi Affiliate plugin
 #### WordPress
-* [https://wordpress.org/plugins/marketing-tool-for-klikbayi-affilate/](https://wordpress.org/plugins/marketing-tool-for-klikbayi-affilate/)
+* [https://wordpress.org/plugins/marketing-tool-for-klikbayi-affiliate/](https://wordpress.org/plugins/marketing-tool-for-klikbayi-affiliate/)
 
 #### GitHub
 * [https://github.com/Jevuska/marketing-tool-for-klikbayi-affiliate](https://github.com/Jevuska/marketing-tool-for-klikbayi-affiliate)
